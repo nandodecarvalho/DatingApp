@@ -19,6 +19,6 @@
 ],
   "rules":
       {
-        "no-string-literal": false,
+        "typedef": false,
       }
 }
